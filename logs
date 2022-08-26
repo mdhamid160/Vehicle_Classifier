@@ -1,12 +1,66 @@
-16:01:56-Main function is failing please check error is local variable 'count' referenced before assignment
-16:01:57-Main function is failing please check error is local variable 'count' referenced before assignment
-16:01:57-Main function is failing please check error is local variable 'count' referenced before assignment
-16:02:06-Main function is failing please check error is local variable 'count' referenced before assignment
-16:02:07-Main function is failing please check error is local variable 'count' referenced before assignment
-16:02:07-Main function is failing please check error is local variable 'count' referenced before assignment
-16:11:48-Main function is failing please check error is local variable 'count' referenced before assignment
-16:11:50-Main function is failing please check error is 'NoneType' object has no attribute 'shape'
-16:12:15-Main function is failing please check error is local variable 'count' referenced before assignment
-16:12:16-Main function is failing please check error is 'NoneType' object has no attribute 'shape'
-16:12:42-Main function is failing please check error is 'NoneType' object has no attribute 'shape'
-16:24:14-Main function is failing please check error is 'NoneType' object has no attribute 'shape'
+16:42:49-Main function is failing please check error is display() takes 2 positional arguments but 3 were given
+16:42:49-Main function is failing please check error is display() takes 2 positional arguments but 3 were given
+16:42:50-Main function is failing please check error is display() takes 2 positional arguments but 3 were given
+16:42:50-Main function is failing please check error is display() takes 2 positional arguments but 3 were given
+16:42:50-Main function is failing please check error is display() takes 2 positional arguments but 3 were given
+16:42:51-Main function is failing please check error is display() takes 2 positional arguments but 3 were given
+16:42:51-Main function is failing please check error is display() takes 2 positional arguments but 3 were given
+16:42:52-Main function is failing please check error is display() takes 2 positional arguments but 3 were given
+16:42:52-Main function is failing please check error is display() takes 2 positional arguments but 3 were given
+16:42:52-Main function is failing please check error is display() takes 2 positional arguments but 3 were given
+16:42:53-Main function is failing please check error is local variable 'count' referenced before assignment
+16:42:53-Main function is failing please check error is display() takes 2 positional arguments but 3 were given
+16:42:54-Main function is failing please check error is display() takes 2 positional arguments but 3 were given
+16:42:54-Main function is failing please check error is display() takes 2 positional arguments but 3 were given
+16:42:54-Main function is failing please check error is display() takes 2 positional arguments but 3 were given
+16:42:55-Main function is failing please check error is display() takes 2 positional arguments but 3 were given
+16:42:55-Main function is failing please check error is display() takes 2 positional arguments but 3 were given
+16:42:55-Main function is failing please check error is display() takes 2 positional arguments but 3 were given
+16:42:55-Main function is failing please check error is 'NoneType' object has no attribute 'shape'
+16:43:38-Main function is failing please check error is display() takes 2 positional arguments but 3 were given
+16:43:39-Main function is failing please check error is display() takes 2 positional arguments but 3 were given
+16:43:39-Main function is failing please check error is display() takes 2 positional arguments but 3 were given
+16:43:39-Main function is failing please check error is display() takes 2 positional arguments but 3 were given
+16:43:40-Main function is failing please check error is display() takes 2 positional arguments but 3 were given
+16:43:40-Main function is failing please check error is display() takes 2 positional arguments but 3 were given
+16:43:40-Main function is failing please check error is display() takes 2 positional arguments but 3 were given
+16:43:40-Main function is failing please check error is display() takes 2 positional arguments but 3 were given
+16:43:41-Main function is failing please check error is display() takes 2 positional arguments but 3 were given
+16:43:41-Main function is failing please check error is display() takes 2 positional arguments but 3 were given
+16:43:41-Main function is failing please check error is display() takes 2 positional arguments but 3 were given
+16:43:42-Main function is failing please check error is display() takes 2 positional arguments but 3 were given
+16:43:42-Main function is failing please check error is display() takes 2 positional arguments but 3 were given
+16:43:43-Main function is failing please check error is display() takes 2 positional arguments but 3 were given
+16:43:43-Main function is failing please check error is display() takes 2 positional arguments but 3 were given
+16:43:43-Main function is failing please check error is local variable 'count' referenced before assignment
+16:43:44-Main function is failing please check error is display() takes 2 positional arguments but 3 were given
+16:43:44-Main function is failing please check error is display() takes 2 positional arguments but 3 were given
+16:43:44-Main function is failing please check error is display() takes 2 positional arguments but 3 were given
+16:43:45-Main function is failing please check error is display() takes 2 positional arguments but 3 were given
+16:43:45-Main function is failing please check error is display() takes 2 positional arguments but 3 were given
+16:43:46-Main function is failing please check error is display() takes 2 positional arguments but 3 were given
+16:43:46-Main function is failing please check error is 'NoneType' object has no attribute 'shape'
+16:46:55-Main function is failing please check error is display() takes 1 positional argument but 3 were given
+16:46:55-Main function is failing please check error is display() takes 1 positional argument but 3 were given
+16:46:55-Main function is failing please check error is display() takes 1 positional argument but 3 were given
+16:46:56-Main function is failing please check error is display() takes 1 positional argument but 3 were given
+16:46:56-Main function is failing please check error is display() takes 1 positional argument but 3 were given
+16:46:56-Main function is failing please check error is display() takes 1 positional argument but 3 were given
+16:46:57-Main function is failing please check error is display() takes 1 positional argument but 3 were given
+16:46:57-Main function is failing please check error is display() takes 1 positional argument but 3 were given
+16:46:58-Main function is failing please check error is display() takes 1 positional argument but 3 were given
+16:46:58-Main function is failing please check error is display() takes 1 positional argument but 3 were given
+16:46:58-Main function is failing please check error is display() takes 1 positional argument but 3 were given
+16:46:59-Main function is failing please check error is display() takes 1 positional argument but 3 were given
+16:46:59-Main function is failing please check error is display() takes 1 positional argument but 3 were given
+16:47:00-Main function is failing please check error is local variable 'count' referenced before assignment
+16:47:00-Main function is failing please check error is display() takes 1 positional argument but 3 were given
+16:47:00-Main function is failing please check error is display() takes 1 positional argument but 3 were given
+16:47:01-Main function is failing please check error is display() takes 1 positional argument but 3 were given
+16:47:01-Main function is failing please check error is display() takes 1 positional argument but 3 were given
+16:47:02-Main function is failing please check error is display() takes 1 positional argument but 3 were given
+16:47:02-Main function is failing please check error is display() takes 1 positional argument but 3 were given
+16:47:02-Main function is failing please check error is display() takes 1 positional argument but 3 were given
+16:47:02-Main function is failing please check error is 'NoneType' object has no attribute 'shape'
+16:49:52-Main function is failing please check error is local variable 'count' referenced before assignment
+16:49:54-Main function is failing please check error is 'NoneType' object has no attribute 'shape'

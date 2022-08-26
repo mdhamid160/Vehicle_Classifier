@@ -15,7 +15,7 @@ warnings.filterwarnings("ignore")
 class CameraStream(object):
     def __init__(self, src=0):
         #self.stream = cv2.VideoCapture("%s"%RSTP_protocal)                       #for live camera feeding
-        self.stream = cv2.VideoCapture("%s" % "./3.mp4")                          #for test video feeding
+        self.stream = cv2.VideoCapture("%s" % "./1.mp4")                          #for test video feeding
         (self.grabbed, self.frame) = self.stream.read()
         self.started = False
         self.read_lock = Lock()
@@ -68,7 +68,7 @@ def check_ping(camera_ip):
     return response
 
 def display(image_np,lane_name,dim):
-    cv2.namedWindow("%s_Test"%lane_name,cv2.WINDOW_NORMAL)
+    cv2.namedWindow("%s_Test"%lane_name, cv2.WINDOW_NORMAL)
     cv2.resizeWindow("%s_Test"%lane_name,(416,416))
     cv2.imshow("%s_Test"%lane_name,image_np)
     
