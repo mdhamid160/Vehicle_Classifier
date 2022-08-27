@@ -10,6 +10,11 @@ I have trained the model for vehicle classes like Car, Bus, Bike, Truck using cu
 
 Model has accuracy of 95% after 300 epochs.
 
+Clone the repository 
+
+```
+git clone 
+```
 Install dependencies 
 
 ```
