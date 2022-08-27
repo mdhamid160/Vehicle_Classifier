@@ -12,12 +12,17 @@ Model has accuracy of 95% after 300 epochs.
 
 Install dependencies 
 
+```
 pip install -r requirements. txt
+
+```
 
 Run the main file 
 
+```
 python main.py
 
+```
 
 -----------------------------------Happy Coding--------------------------------------------
 
