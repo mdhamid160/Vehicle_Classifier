@@ -14,14 +14,12 @@ Install dependencies
 
 ```
 pip install -r requirements. txt
-
 ```
 
 Run the main file 
 
 ```
 python main.py
-
 ```
 
 -----------------------------------Happy Coding--------------------------------------------
