@@ -10,7 +10,14 @@ I have trained the model for vehicle classes like Car, Bus, Bike, Truck using cu
 
 Model has accuracy of 95% after 300 epochs.
 
-Run the main.py
+Install dependencies 
+
+pip install -r requirements. txt
+
+Run the main file 
+
+python main.py
 
 
 -----------------------------------Happy Coding--------------------------------------------
+
