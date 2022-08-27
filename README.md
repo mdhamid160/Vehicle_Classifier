@@ -13,7 +13,7 @@ Model has accuracy of 95% after 300 epochs.
 Clone the repository 
 
 ```
-git clone 
+git clone https://github.com/mdhamid160/Vehicle_Classifier.git
 ```
 Install dependencies 
 
